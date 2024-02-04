@@ -1,0 +1,58 @@
+{
+  "name": "instracktor_chakra",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.1",
+    "@daily-co/daily-js": "^0.56.0",
+    "@daily-co/daily-react": "^0.16.0",
+    "@daily-co/daily-react-hooks": "^0.5.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@excalidraw/excalidraw": "^0.17.2",
+    "@fontsource-variable/urbanist": "^5.0.16",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@studio-freight/lenis": "^1.0.33",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.5.1",
+    "formik": "^2.4.5",
+    "framer-motion": "^10.16.4",
+    "install": "^0.13.0",
+    "npm": "^10.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1",
+    "recoil": "^0.7.7",
+    "redux": "^5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
